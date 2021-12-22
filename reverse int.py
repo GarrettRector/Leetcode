@@ -1,5 +1,5 @@
-class Solution(object):
-    def reverse(self, x):
+class Solution:
+    def reverse(self, x: int) -> int:
         
         y = False
         
@@ -23,3 +23,8 @@ class Solution(object):
             solution = 0
         
         return solution
+
+
+if __name__ == "__main__":
+    s = Solution()
+    s.reverse(12345)
