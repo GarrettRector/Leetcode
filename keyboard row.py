@@ -7,3 +7,7 @@ class Solution:
             if len(letters-firstRow)==0 or len(letters-secondRow)==0 or len(letters-thirdRow)==0:
                 ans.append(each)
         return ans
+
+if __name__ == "__main__":
+    s = Solution()
+    s.findWords(["qwertyuiop", "dad", "hello world"])
