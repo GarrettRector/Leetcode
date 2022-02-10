@@ -7,18 +7,12 @@ class Solution:
             y = True
             x = x[1:]
 
-        solution = ""
-
-        for i in range(len(str(x))):
-            solution += x[len(x) - i - 1]
+        solution = "".join(x[len(x) - i - 1] for i in range(len(str(x))))
 
         if y:
             solution = "-" + solution
 
-        if solution == x:
-            return True
-        else:
-            return False
+        return solution == x
 
 
 if __name__ == "__main__":
