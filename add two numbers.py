@@ -11,12 +11,8 @@ class Solution:
         current = result_head
         c = 0
         while l1 is not None or l2 is not None:
-            a = 0
-            b = 0
-            if l1 is not None:
-                a = l1.val
-            if l2 is not None:
-                b = l2.val
+            a = l1.val if l1 is not None else 0
+            b = l2.val if l2 is not None else 0
             if a + b + c >= 10:
                 val = (a + b + c) % 10
                 c = 1
@@ -31,7 +27,7 @@ class Solution:
             if l1 is not None or l2 is not None:
                 current.next = ListNode(0)
                 current = current.next
-            elif l1 is None and l2 is None and c != 0:
+            elif c != 0:
                 current.next = ListNode(c)
                 current = current.next
         return result_head
