@@ -15,4 +15,4 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.intToRoman(99))
+    s.intToRoman(99)

@@ -9,4 +9,4 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.checkPerfectNumber(30402457))
+    s.checkPerfectNumber(30402457)
