@@ -7,4 +7,4 @@ class Solution(object):
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.plusOne([4,3,2,1]))
+    s.plusOne([4, 3, 2, 1])
