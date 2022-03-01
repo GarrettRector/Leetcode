@@ -60,3 +60,5 @@ A repository for my Leetcode Problem Solutions
 [Power of Two](https://github.com/GarrettRector/Leetcode/blob/stable/power%20of%20two.py)
 
 [Power of Three](https://github.com/GarrettRector/Leetcode/blob/stable/power%20of%20three.py)
+
+[Fizz Buzz](https://github.com/GarrettRector/Leetcode/blob/stable/fizz%20buzz.py)
