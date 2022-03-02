@@ -62,3 +62,5 @@ A repository for my Leetcode Problem Solutions
 [Power of Three](https://github.com/GarrettRector/Leetcode/blob/stable/power%20of%20three.py)
 
 [Fizz Buzz](https://github.com/GarrettRector/Leetcode/blob/stable/fizz%20buzz.py)
+
+[Is Sequence](https://github.com/GarrettRector/Leetcode/blob/stable/is%20sequence.py)
