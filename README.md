@@ -66,5 +66,3 @@ A repository for my Leetcode Problem Solutions
 [Is Sequence](https://github.com/GarrettRector/Leetcode/blob/stable/is%20sequence.py)
 
 [Number of 1 Bits](https://github.com/GarrettRector/Leetcode/blob/stable/number%20%of%201%20bits.py)
-
-[Jewels and Stones](https://github.com/GarrettRector/Leetcode/blob/stable/jewels%20and%20stones.py)
