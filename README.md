@@ -70,3 +70,5 @@ A repository for my Leetcode Problem Solutions
 [Jewels and Stones](https://github.com/GarrettRector/Leetcode/blob/stable/jewels%20and%20stones.py)
 
 [Shuffle String](https://github.com/GarrettRector/Leetcode/blob/stable/shuffle%20string.py)
+
+[TinyURL](https://github.com/GarrettRector/Leetcode/blob/stable/tinyurl.py)
